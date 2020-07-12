@@ -1,0 +1,14 @@
+{
+  "name": "pongpong.helloworld",
+  "version": "0.0.1",
+  "description": "test hello",
+  "cordova": {
+    "id": "pongpong.helloworld",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "pong",
+  "license": "ISC"
+}
